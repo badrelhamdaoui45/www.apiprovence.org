@@ -1,0 +1,123 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Mar 2024 22:25:39 at https://www.apiprovence.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.apiprovence.org/ -O1 "C:\My Web Sites\apiprovence.org" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:26:20	Warning: 	Found for https://unpkg.com/axios/dist/axios.min.js?ver=6.4.3
+22:26:20	Warning: 	Warning moved treated for https://unpkg.com/axios/dist/axios.min.js?ver=6.4.3 (real one is https://unpkg.com/axios/dist/axios.min.js)
+22:26:46	Warning: 	Moved Permanently for https://www.apiprovence.org/nos-logements/
+22:26:46	Warning: 	File has moved from https://www.apiprovence.org/nos-logements/ to https://www.apiprovence.org/nos-logements-accompagnes/
+22:26:56	Warning: 	Found for https://unpkg.com/axios/dist/axios.min.js
+22:26:56	Warning: 	Warning moved treated for https://unpkg.com/axios/dist/axios.min.js (real one is https://unpkg.com/axios@1.6.8/dist/axios.min.js)
+22:26:59	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=378
+22:26:59	Warning: 	File has moved from https://www.apiprovence.org/?p=378 to https://www.apiprovence.org/contact/
+22:27:38	Warning: 	Incorrect length (2553834!=28727185 expected) for https://www.apiprovence.org/wp-content/uploads/2024/03/Segurane-9-2.png
+22:27:41	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=248
+22:27:41	Warning: 	File has moved from https://www.apiprovence.org/?p=248 to https://www.apiprovence.org/qui-sommes-nous/
+22:27:50	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=265
+22:27:50	Warning: 	File has moved from https://www.apiprovence.org/?p=265 to https://www.apiprovence.org/nos-partenaires/
+22:28:20	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=274
+22:28:20	Warning: 	File has moved from https://www.apiprovence.org/?p=274 to https://www.apiprovence.org/nos-bailleurs-sociaux/
+22:28:34	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=281
+22:28:34	Warning: 	File has moved from https://www.apiprovence.org/?p=281 to https://www.apiprovence.org/nos-projets-logements/
+22:28:38	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=77
+22:28:38	Warning: 	File has moved from https://www.apiprovence.org/?p=77 to https://www.apiprovence.org/actualites/
+22:28:41	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=326
+22:28:41	Warning: 	File has moved from https://www.apiprovence.org/?p=326 to https://www.apiprovence.org/vous-cherchez-un-logement/
+22:29:25	Warning: 	Incorrect length (16497266!=25575391 expected) for https://www.apiprovence.org/wp-content/uploads/2024/03/Rouge-Gorge-12-2-1.png
+22:29:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.apiprovence.org/wp-content/uploads/2024/03/Segurane-9-2.png (from https://www.apiprovence.org/vous-cherchez-un-logement/)
+22:30:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.apiprovence.org/wp-content/uploads/2024/03/Rouge-Gorge-12-2-1.png (from https://www.apiprovence.org/vous-cherchez-un-logement/)
+22:30:33	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=285
+22:30:33	Warning: 	File has moved from https://www.apiprovence.org/?p=285 to https://www.apiprovence.org/nos-logements-jeunes-etudiants/
+22:30:36	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=308
+22:30:36	Warning: 	File has moved from https://www.apiprovence.org/?p=308 to https://www.apiprovence.org/nos-logements-saisonniers/
+22:30:37	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=317
+22:30:37	Warning: 	File has moved from https://www.apiprovence.org/?p=317 to https://www.apiprovence.org/nos-logements-seniors/
+22:30:39	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=324
+22:30:39	Warning: 	File has moved from https://www.apiprovence.org/?p=324 to https://www.apiprovence.org/nos-logements-accompagnes/
+22:30:42	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=334
+22:30:42	Warning: 	File has moved from https://www.apiprovence.org/?p=334 to https://www.apiprovence.org/nos-services-rsa/
+22:30:44	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=360
+22:30:44	Warning: 	File has moved from https://www.apiprovence.org/?p=360 to https://www.apiprovence.org/nos-services-jeunes/
+22:30:46	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=4602
+22:30:46	Warning: 	File has moved from https://www.apiprovence.org/?p=4602 to https://www.apiprovence.org/projet-cest-carre-84/
+22:30:46	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=758
+22:30:46	Warning: 	File has moved from https://www.apiprovence.org/?p=758 to https://www.apiprovence.org/nos-services-daccompagnement-logement/
+22:30:47	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=767
+22:30:47	Warning: 	File has moved from https://www.apiprovence.org/?p=767 to https://www.apiprovence.org/nos-services-asiles-refugies-etrangers/
+22:30:49	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=791
+22:30:49	Warning: 	File has moved from https://www.apiprovence.org/?p=791 to https://www.apiprovence.org/nos-autres-actions/
+22:30:49	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=844
+22:30:49	Warning: 	File has moved from https://www.apiprovence.org/?p=844 to https://www.apiprovence.org/nos-formations/
+22:30:51	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=385
+22:30:51	Warning: 	File has moved from https://www.apiprovence.org/?p=385 to https://www.apiprovence.org/pourquoi-nous-rejoindre/
+22:30:52	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=415
+22:30:52	Warning: 	File has moved from https://www.apiprovence.org/?p=415 to https://www.apiprovence.org/demande-un-logement/
+22:30:52	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=2642
+22:30:52	Warning: 	File has moved from https://www.apiprovence.org/?p=2642 to https://www.apiprovence.org/nos-residences/residence-autonomie-villeneuve-loubet/
+22:30:53	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=5823
+22:30:53	Warning: 	File has moved from https://www.apiprovence.org/?p=5823 to https://www.apiprovence.org/la-pension-de-famille-de-brignoles-mise-en-avant-dans-var-matin/
+22:30:56	Warning: 	Moved Permanently for https://www.apiprovence.org/wp-content/uploads/2022/11/Group-74.svg
+22:30:56	Warning: 	File has moved from https://www.apiprovence.org/wp-content/uploads/2022/11/Group-74.svg to https://www.apiprovence.org/
+22:30:59	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=5183
+22:30:59	Warning: 	File has moved from https://www.apiprovence.org/?p=5183 to https://www.apiprovence.org/noel-magique-a-la-residence-autonomie-api-provence-a-grasse/
+22:31:01	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=4792
+22:31:01	Warning: 	File has moved from https://www.apiprovence.org/?p=4792 to https://www.apiprovence.org/1ere-anniversaire-de-la-residence-autonomie-a-grasse/
+22:31:02	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1525
+22:31:02	Warning: 	File has moved from https://www.apiprovence.org/?p=1525 to https://www.apiprovence.org/mentions-legales-2/
+22:31:04	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=2637
+22:31:04	Warning: 	File has moved from https://www.apiprovence.org/?p=2637 to https://www.apiprovence.org/nos-residences/residence-sociale-jeunes-actifs-les-parcs/
+22:31:11	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=2536
+22:31:11	Warning: 	File has moved from https://www.apiprovence.org/?p=2536 to https://www.apiprovence.org/nos-residences/residence-etudiante-skema-valbonne-sophia-antipolis/
+22:31:11	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1817
+22:31:11	Warning: 	File has moved from https://www.apiprovence.org/?p=1817 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-tonduti/
+22:31:17	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1812
+22:31:17	Warning: 	File has moved from https://www.apiprovence.org/?p=1812 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-soustelle/
+22:31:19	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1807
+22:31:19	Warning: 	File has moved from https://www.apiprovence.org/?p=1807 to https://www.apiprovence.org/nos-residences/residence-etudiante-sky-valley/
+22:31:24	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1804
+22:31:24	Warning: 	File has moved from https://www.apiprovence.org/?p=1804 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-segurane/
+22:33:04	Warning: 	Incorrect length (13652!=1055908 expected) for https://www.apiprovence.org/wp-content/uploads/2023/03/039A5270-scaled.jpg
+22:33:38	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1799
+22:33:38	Warning: 	File has moved from https://www.apiprovence.org/?p=1799 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-rouget-de-lisle/
+22:33:38	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1796
+22:33:38	Warning: 	File has moved from https://www.apiprovence.org/?p=1796 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-rouge-gorge/
+22:33:38	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1791
+22:33:38	Warning: 	File has moved from https://www.apiprovence.org/?p=1791 to https://www.apiprovence.org/nos-residences/residence-habitat-jeunes-republique/
+22:33:42	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1785
+22:33:42	Warning: 	File has moved from https://www.apiprovence.org/?p=1785 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-plein-sud/
+22:33:44	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1770
+22:33:44	Warning: 	File has moved from https://www.apiprovence.org/?p=1770 to https://www.apiprovence.org/nos-residences/residence-sociale-tout-public-lympia/
+22:33:45	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1401
+22:33:45	Warning: 	File has moved from https://www.apiprovence.org/?p=1401 to https://www.apiprovence.org/nos-residences/residence-saisonniere-et-etudiante-les-sables-dargent/
+22:33:45	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1396
+22:33:45	Warning: 	File has moved from https://www.apiprovence.org/?p=1396 to https://www.apiprovence.org/nos-residences/residence-saisonniere-et-etudiante-le-figuier/
+22:33:46	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=556
+22:33:46	Warning: 	File has moved from https://www.apiprovence.org/?p=556 to https://www.apiprovence.org/nos-residences/residence-autonomie-porte-neuve/
+22:33:46	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=542
+22:33:46	Warning: 	File has moved from https://www.apiprovence.org/?p=542 to https://www.apiprovence.org/nos-residences/residence-autonomie-lou-paradou/
+22:33:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.apiprovence.org/wp-content/uploads/2023/03/039A5270-scaled.jpg (from https://www.apiprovence.org/nos-residences/pension-de-famille-maison-garnier/)
+22:33:47	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=570
+22:33:47	Warning: 	File has moved from https://www.apiprovence.org/?p=570 to https://www.apiprovence.org/nos-residences/pension-de-famille-maison-garnier/
+22:33:51	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1751
+22:33:51	Warning: 	File has moved from https://www.apiprovence.org/?p=1751 to https://www.apiprovence.org/nos-residences/residence-sociale-jeunes-actifs-campus-sud/
+22:33:52	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1415
+22:33:52	Warning: 	File has moved from https://www.apiprovence.org/?p=1415 to https://www.apiprovence.org/nos-residences/residence-sociale-jeunes-actifs-la-calanque/
+22:33:53	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1339
+22:33:53	Warning: 	File has moved from https://www.apiprovence.org/?p=1339 to https://www.apiprovence.org/nos-residences/residence-habitat-jeunes-le-van-dyck/
+22:33:54	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1334
+22:33:54	Warning: 	File has moved from https://www.apiprovence.org/?p=1334 to https://www.apiprovence.org/nos-residences/residence-habitat-jeunes-le-clos-du-jardin-neuf/
+22:33:55	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1327
+22:33:55	Warning: 	File has moved from https://www.apiprovence.org/?p=1327 to https://www.apiprovence.org/nos-residences/residence-habitat-jeunes-valbonne/
+22:34:02	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=1626
+22:34:02	Warning: 	File has moved from https://www.apiprovence.org/?p=1626 to https://www.apiprovence.org/nos-residences/pension-de-famille-clos-notre-dame/
+22:34:02	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=486
+22:34:02	Warning: 	File has moved from https://www.apiprovence.org/?p=486 to https://www.apiprovence.org/nos-residences/pension-de-famille-la-passerelle/
+22:34:02	Warning: 	Moved Permanently for https://www.apiprovence.org/?p=473
+22:34:02	Warning: 	File has moved from https://www.apiprovence.org/?p=473 to https://www.apiprovence.org/nos-residences/pension-de-famille-la-cabraire/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 23 seconds : 517 links scanned, 461 files written (132426666 bytes overall) [132738362 bytes received at 263893 bytes/sec]
+(No errors, 112 warnings, 0 messages)
